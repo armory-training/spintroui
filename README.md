@@ -1,2 +1,2 @@
 # spintroui
-lgty?
+Deploys nginx
