@@ -1,2 +1,2 @@
 # spintroui
-Deploys nginx
+Deploys nginx with LB
