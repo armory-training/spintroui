@@ -1,3 +1,2 @@
 # spintroui
-Hello, SalesForce!
-Looking forward to lunch!
+This is my Spinnaker Intro UI repo.
