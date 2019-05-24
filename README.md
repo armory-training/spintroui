@@ -1,2 +1,2 @@
 # spintroui
-# JOR
+# SCN
