@@ -1,4 +1,4 @@
 # spintroui
 
-haythemkh
-k8s manifest deployment
+* haythemkh
+* k8s manifest deployment
