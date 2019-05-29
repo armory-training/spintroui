@@ -1,4 +1,4 @@
 # spintroui
 Deploys nginx with LB
 
-rleitman
+rleitman (Rob Leitman)
