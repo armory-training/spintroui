@@ -1,3 +1,1 @@
-# spintroui
-# SCN
 shahpratiksha
