@@ -1,3 +1,3 @@
 # spintroui
 # SCN
-iixynny
+i ixynny
