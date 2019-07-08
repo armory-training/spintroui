@@ -1,4 +1,4 @@
 # spintroui
 # SCN
 # aretelle
-# added deploy
+# added bake and deploy
