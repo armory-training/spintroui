@@ -1,3 +1,4 @@
 # spintroui
 # SCN
-Hello Satya
+Hello Satya.  
+Manifest in now.
