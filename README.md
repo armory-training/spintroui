@@ -4,4 +4,4 @@
 
 #Now testing manifest deployment stage
 
-test 
+test now
