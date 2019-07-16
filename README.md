@@ -1,3 +1,3 @@
 # spintroui
 # SCN
-# Hola World
+Hola World
