@@ -1,4 +1,6 @@
 # spintroui
 # SCN
-#Hello world1
-#this is for training
+### Training is fun 
+or is it
+Spinnaker is confusing
+this is for training
