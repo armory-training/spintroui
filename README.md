@@ -1,3 +1,3 @@
 # spintroui
 # SCN
-Hello jluehe
+Hello jluehe!
