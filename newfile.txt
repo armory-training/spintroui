@@ -1,6 +1,3 @@
 Hello shruthi
 
-test
-
-test2
-test3
+Test the deployment phase
