@@ -1,4 +1,4 @@
 # spintroui
 Hello, SalesForce!
-# before lunch
-let's deploy something!
+# after lunch
+had lunch, Yum!
