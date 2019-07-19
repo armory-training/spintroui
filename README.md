@@ -1,3 +1,3 @@
 # spintroui
 # SCN
-#Goodbye world
+#Hello world
