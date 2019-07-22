@@ -1,4 +1,4 @@
-#georgedhill
+georgedhill
 # spintroui
 # SCN
 #Hello world1
