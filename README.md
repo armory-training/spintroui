@@ -4,3 +4,4 @@
 Nitin
 Second run
 Deploy nginx
+parrallel stages
