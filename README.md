@@ -1,4 +1,4 @@
 # spintroui
 # SCN
 #Hello world1
-Vishal Meghani
+Vishal Meghani hello
