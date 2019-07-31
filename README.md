@@ -1,5 +1,4 @@
 # spintroui
 Hello, SalesForce!
-# Before lunch
-It's almost lunch time!
-
+# After lunch
+Let's bake and deploy!
