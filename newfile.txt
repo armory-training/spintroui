@@ -1,4 +1,4 @@
 test
 test1 trigger
-test2
+test2 trigger deploy stage
 test3
