@@ -2,4 +2,5 @@
 # SCN
 #Hello world1
 rvaleti
-Deploy nginx
+
+Bake and deploy
