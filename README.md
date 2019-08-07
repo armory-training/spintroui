@@ -1,4 +1,4 @@
 # spintroui
-Hello, Deep Shrestha!
+Hello, Deep!
 # After lunch
 Let's bake and deploy!
