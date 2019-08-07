@@ -1,3 +1,2 @@
 # spintroui
-# SCN
 cbrazeau
