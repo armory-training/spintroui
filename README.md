@@ -1,5 +1,4 @@
 # spintroui
 # SCN
 #Hello world1
-ranjithsimple
-mahavsfcc3
+This is my fist spinnaker exercise.
