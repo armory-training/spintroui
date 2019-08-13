@@ -1,5 +1,5 @@
 # spintroui
 # SCN
 #Hello world1
-ranjithsimple
-mahavsfcc3
+app4spin
+test project
