@@ -2,4 +2,4 @@
 # SCN
 #Hello world1
 ranjithsimple
-jptriggertest
+jptest
