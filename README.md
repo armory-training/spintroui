@@ -1,7 +1,7 @@
 # spintroui
 # SCN
 #Hello world1
-aaronarruda
+
 #infa-achattaway
 deployment change
 
