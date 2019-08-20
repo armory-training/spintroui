@@ -1,5 +1,5 @@
-# spintroui
-# SCN
-#Hello world1
-ranjithsimple
-deebohdee and friends
+# Spintroui
+
+## Hello world
+
+This is Vutsal
