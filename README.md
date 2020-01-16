@@ -7,3 +7,5 @@ test
 Test AMI Bake
 
 alfjldsajlsajflasjflasjflsadjfsaljflsajf
+
+hello from MB
